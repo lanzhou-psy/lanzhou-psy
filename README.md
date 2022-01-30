@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lan Zhou, you could also call me Lauren.
+- 👋 Hi, I’m Lan Zhou, you can call me Lauren.
 - 👀 I’m interested in badmiton, hiking and write novels.
 - 🌱 I’m currently learning Neuroscience at University of Medical Center Groningen.
 - 💞️ I’m looking to collaborate on childhood trauma, psychiatric patients, brain network and sMRI/fmri studies.
