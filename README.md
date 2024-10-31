@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lan Zhou.
 - 👀 I’m interested in badmiton, hiking and write novels.
 - 🌱 I’m currently learning Neuroscience at University of Medical Center Groningen.
-- 💞️ I’m looking to collaborate on childhood trauma, psychiatric patients, brain network and sMRI/fmri studies.
+- 💞️ I’m doing research on childhood adversity, psychiatric patients, brain network and sMRI/fmri studies.
 - 📫 If you are interested, pls feel free to contact me via email: lanzhou.psy@hotmail.com
 
 <!---
